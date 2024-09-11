@@ -1,6 +1,6 @@
 # Product Data Extraction Script
 
-This Python script is a powerful tool designed to extract detailed data about products from a specific e-commerce (the website in the code has been redacted as https, as such the code is for demonstration purposes only). The script utilizes the Scrapy library to crawl product pages and gather their data like the product name, categories and SKU. The extracted data is then structured and saved into a CSV file format, making it convenient for importing into Google Analytics 4 (GA4) for fixing potential tracking mistakes and improving the data quality.
+This Python script is a powerful tool designed to extract detailed data about products from a specific e-commerce (the website in the code has been redacted as "e-commerce.com", as such the code is for demonstration purposes only). The script utilizes the Scrapy library to crawl product pages and gather their data like the product name, categories and SKU. The extracted data is then structured and saved into a CSV file format, making it convenient for importing into Google Analytics 4 (GA4) for fixing potential tracking mistakes and improving the data quality.
 
 ## How to Use
 1. **Setup:** Ensure you have Python 3.x installed on your system along with the required libraries: `pandas`, `datetime`, `scrapy`, `beautifulsoup4`.
